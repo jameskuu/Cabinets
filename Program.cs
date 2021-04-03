@@ -6,7 +6,7 @@ namespace Cabinets
     {
         static void Main(string[] args)
         {
-            UpperCabinet upperCabinet = new UpperCabinet(1,2,3,4,5,6);
+            UpperCabinet upperCabinet = new UpperCabinet(1,2,3,4,5,6,7,8);
             Console.WriteLine(upperCabinet.height);
 
             
