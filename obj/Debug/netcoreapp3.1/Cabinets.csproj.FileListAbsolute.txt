@@ -1,0 +1,13 @@
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.csprojAssemblyReference.cache
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.AssemblyInfo.cs
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.exe
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.deps.json
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.runtimeconfig.json
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.runtimeconfig.dev.json
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.dll
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\bin\Debug\netcoreapp3.1\Cabinets.pdb
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.dll
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.pdb
+C:\Users\Ryzen\Documents\C# Programming\Projects\Cabinets\obj\Debug\netcoreapp3.1\Cabinets.genruntimeconfig.cache
